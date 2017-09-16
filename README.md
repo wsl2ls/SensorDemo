@@ -1,3 +1,5 @@
+
+简࿆书࿆地࿆址࿆：http://www.jianshu.com/u/e15d1f644bea
 > 指纹识别、运动传感器、加速计、环境光感、距离传感器、磁力计、陀螺仪
 
 ![效果预览.gif](http://upload-images.jianshu.io/upload_images/1708447-77d332b828cc3ba3.gif?imageMogr2/auto-orient/strip)
