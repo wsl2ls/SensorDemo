@@ -23,12 +23,12 @@
     
     self.navigationItem.title = @"利用摄像头捕捉光感参数";
     
-    UILabel * label = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, 200, 300)];
+    UILabel * label = [[UILabel alloc] initWithFrame:CGRectMake(0, 0, 200, 400)];
     label.center = CGPointMake(self.view.frame.size.width/2, self.view.frame.size.height/2);
     label.numberOfLines =  0;
     label.lineBreakMode = NSLineBreakByWordWrapping;
     [self.view addSubview:label];
-    label.text = @"利用摄像头获取环境光感参数 光线暗的时候打开手电筒，光亮时关闭";
+    label.text = @"环境变暗后就自动提示是否打开闪光灯，打开之后，环境变亮后会自动提示是否关闭闪光灯。";
     
     
     [self lightSensitive];
